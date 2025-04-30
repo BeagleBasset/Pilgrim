@@ -4,6 +4,8 @@ This was a quick project I intended to finish during my holiday. It's a simple O
 
 The project could be greatly optimized and extended. I might get around to it on boring rainy days.
 
+![image](https://github.com/user-attachments/assets/aa117033-ba93-4886-86cf-653a8717bd86)
+
 
 ## Key Features
 
@@ -54,4 +56,7 @@ Make sure your working directory is set correctly to find shaders and other reso
 
 Contributions are welcome! If you find bugs, have ideas for improvements, or just want to help out, feel free to open an issue or submit a pull request. 😄
 
-This `Pilgrim` C++ project generated with CCPG.py.
+
+
+
+<sup>This `Pilgrim` C++ project generated with CCPG.py.</sup>
